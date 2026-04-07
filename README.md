@@ -122,7 +122,7 @@ Each record includes:</p>
 </ul>
 
 <h3>Sample Input and Output</h3>
-<p>Input: I am scared about what will happen
+<p>Input: I am scared about what will happen <br>
 Emotion: Fear</p>
 
 <h2>Conclusion</h2>
