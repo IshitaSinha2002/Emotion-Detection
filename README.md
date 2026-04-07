@@ -95,13 +95,13 @@ Each record includes:</p>
 <h2>Visualizations</h2>
 <h3>Emotion Distribution</h3>
 <p>Shows the distribution of different emotions in the dataset.</p>
-<img src="images/distribution.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Emotion-Detection/blob/main/Emotion%20Dist.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Confusion Matrix</h3>
 <p>Displays actual versus predicted classifications.</p>
-<img src="images/confusion_matrix.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Emotion-Detection/blob/main/Confusion%20Matrix.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Text Length Distribution</h3>
 <p>Shows variation in the length of text samples.</p>
-<img src="images/text_length.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Emotion-Detection/blob/main/Text%20Len%20Dist.png" width: 500px; height: 400px; object-fit: cover;>
 
 <h2>Key Insights</h2>
 <ul>
@@ -122,7 +122,8 @@ Each record includes:</p>
 </ul>
 
 <h3>Sample Input and Output</h3>
-
+<p>Input: I am scared about what will happen
+Emotion: Fear</p>
 
 <h2>Conclusion</h2>
 <p>This project demonstrates how machine learning and NLP techniques can be used to detect emotions in text.
